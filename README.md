@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="logo" width="100px">
+<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="logo" width="100px">
+  +
+<img src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png" alt="logo" width="100px">
 <h1 align="center">notify-kotlin-kafka</h1>
 </p>
 
