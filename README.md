@@ -21,3 +21,4 @@ This is a discord bot notifier written using Kotlin and Apache Kafka
 - Async messaging with Kotlin and Kafka: https://medium.com/swlh/async-messaging-with-kotlin-and-kafka-488e399e4e17
 - Create discord bot using Kotlin: https://dev.to/kotlinautas/criando-um-bot-para-discord-com-kord-kotlin-4opb
 - Kord: https://dev.to/kotlinautas/criando-um-bot-para-discord-com-kord-kotlin-4opb
+- Robust-Multicloud: https://github.com/doitintl/robust-multicloud & https://www.doit-intl.com/kotlin-gradle-and-the-cloud/
